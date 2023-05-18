@@ -2,9 +2,9 @@
 
 ## ToDo Server
 Start server with command 
-` npm start
+` npm start `
 It will start on port 5000
 
 ## ToDo Client
 Srart website with command
-` npm run dev
+` npm run dev `
